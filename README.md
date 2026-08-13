@@ -8,8 +8,7 @@ Bu veri kümesi, Toraman ve ark. (2022) tarafından toplanan ve daha sonra yazar
 
 Orijinal veri kümesi, tweet'leri veri toplama sürecinde kullanılan anahtar-kelime alanına (`TopicID`: Din, Cinsiyet, Irk, Siyaset, Spor) göre etiketliyordu — bu, gerçek hedef kategorisinin güvenilir bir vekili değildir. Bu çalışma, aynı tweet'leri dört hedef kategoriye (ırkçılık, dini kökenli nefret, cinsiyetçilik/cinsel yönelim, diğer) göre yeniden etiketleyerek, hem eski vekil etiketi (`TopicID`) hem de yeni içerik-temelli etiketi aynı satırda bir arada sunar.
 
-Yöntem, doğrulama ve karşılaştırmalı sonuçlar için bkz.: *[bildiri başlığı/atıf buraya eklenecek]*.
-
+Yöntem, doğrulama ve karşılaştırmalı sonuçlar için bkz
 ## Dosya
 
 | Dosya | Satır | Açıklama |
