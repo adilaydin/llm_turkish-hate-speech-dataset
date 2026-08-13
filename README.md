@@ -63,9 +63,9 @@ Toraman, C., Şahinuç, F., & Yılmaz, E. H. (2022). Large-scale hate speech det
 with cross-domain transfer. Proceedings of the Thirteenth Language Resources and
 Evaluation Conference (LREC 2022), 2215-2225.
 
-[Bu çalışmanın atıf bilgisi buraya eklenecek]
+[https://github.com/metunlp/hate-speech/tree/master]
 ```
 
 ## İletişim
 
-Sorularınız için: [e-posta adresinizi buraya ekleyin]
+Sorularınız için: [adilaydin1661@gmail.com]
